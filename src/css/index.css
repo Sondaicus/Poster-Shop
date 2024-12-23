@@ -1,0 +1,26 @@
+#task_navigation_links_encompasing_element
+{
+    margin-top: 1.5%;
+    margin-left: 2.5%;
+}
+
+.task_navigation_links_h1
+{
+    font-size: 3em;
+}
+
+.task_navigation_links_h2
+{
+    margin-top: 2.5%;
+    font-size: 2em;
+}
+
+li
+{
+    margin-bottom: 1.5%;
+}
+
+.task_html_file_nav_a
+{
+    font-size: 1.25em;
+}
